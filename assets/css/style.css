@@ -1209,6 +1209,9 @@ TEXTAREA {
 }
 
 @media only screen and (max-width: 600px) {
+  .container-fluid{
+    padding: 0px;
+  }
 
   .flagship-text,
   .promoting-section p {
